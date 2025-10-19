@@ -1,0 +1,5 @@
+{
+  "name": "DrCorrector",
+  "description": "An application for students to automatically check multiple-choice answer sheets. Upload an image of your answers, and DrCorrector will perform OCR, display the results, and generate spoken audio clips of the answers for review.",
+  "requestFramePermissions": []
+}
